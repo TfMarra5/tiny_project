@@ -1,7 +1,3 @@
-aqui está o README atualizado com as informações novas — ainda em inglês:
-
----
-
 # 🎮 tiny_projects – Python mini games
 
 This repository contains small Python projects made to practice programming logic in a simple, fast, and fun way.
