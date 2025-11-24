@@ -1,82 +1,50 @@
-# 🎮 tiny_projects -- Python mini games
+# 🎮 tiny_projects --- Python mini games
 
-This repository contains small Python projects made to practice
+This repository gathers small Python projects created to practice
 programming logic in a simple, fast, and fun way.
 
-The goal here is to **learn by building** --- each mini-project is a
-step to improve logic, thinking, and confidence in coding.
+Each mini-project explores a different idea --- from games to utilities
+--- helping build problem-solving skills, clean code habits, and
+confidence through practical learning.
 
 ------------------------------------------------------------------------
 
-## 📂 Structure
+## 🧠 What you'll find here
 
-  -------------------------------------------------------------------------------
-  Folder                    Description
-  ------------------------- -----------------------------------------------------
-  **1_Quiz**                Simple quiz with questions and score tracking
-
-  **2_Guessing game**       Number guessing game where the user tries to find the
-                            secret number
-
-  **3_RockPaperScissors**   Classic Rock, Paper, Scissors game with score
-                            tracking and validation
-
-  **4_Countdown**           Countdown timer using loops and time delay
-
-  **5_PasswordGenerator**   Random password generator using letters, numbers, and
-                            punctuation characters
-  -------------------------------------------------------------------------------
+-   simple, self-contained Python scripts\
+-   games, small tools, and logic challenges\
+-   clean and readable code\
+-   focus on learning by building\
+-   experiments to practice core concepts
 
 ------------------------------------------------------------------------
 
-## 🧠 Concepts used
+## 🛠️ Concepts covered
 
--   `if / elif / else`\
--   `while` loops\
--   input validation (`strip()`, `lower()`, `isdigit()`, `continue`)\
--   type conversion (`str` → `int`)\
+-   conditionals (`if / elif / else`)\
+-   loops (`while`, `for`)\
+-   input validation\
+-   randomness (`random`)\
 -   lists and dictionaries\
--   randomization (`random.choice()`, `random.choices()`)\
--   importing modules (`random`, `string`, `time`)\
--   formatted strings (f-strings)\
--   clean console output and simple user interaction
+-   file handling (`json`)\
+-   formatted output (f-strings)
 
 ------------------------------------------------------------------------
 
-## ▶️ How to run
+## ▶️ How to run a project
 
-\`\`\`bash python3 file_name.py \`\`\`
+``` bash
+python3 script_name.py
+```
 
-Or navigate into the project you want to run:
-
-\`\`\`bash cd 5_PasswordGenerator python3 password_generator.py \`\`\`
-
-------------------------------------------------------------------------
-
-## 🚀 Future ideas
-
--   difficulty levels\
--   attempt limits\
--   score ranking\
--   emoji versions (🪨📄✂️)\
--   "play again" option without restarting the script\
--   cross-project leaderboard\
--   password strength checker\
--   GUI versions (Tkinter / PyQt)
-
-------------------------------------------------------------------------
-
-## ✨ Inspiration
-
-This project was inspired by **Apoena Stack -- Iury Rosal**\
-YouTube channel: https://www.youtube.com/@IuryRosal
+Each project is standalone and requires no installation.
 
 ------------------------------------------------------------------------
 
 ## 🎯 Purpose
 
-These projects were created to learn, practice, and develop my
-programming skills through small, focused exercises.
+A space to collect small Python projects, test ideas, practice logic,
+and document my progress as I learn and improve.
 
 ------------------------------------------------------------------------
 
