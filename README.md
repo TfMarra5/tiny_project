@@ -1,4 +1,4 @@
-# 🎮 tiny_projects --- Python mini games
+# 🎮 tiny_projects - Python mini games
 
 This repository gathers small Python projects created to practice
 programming logic in a simple, fast, and fun way.
